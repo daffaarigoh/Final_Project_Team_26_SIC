@@ -1,9 +1,2 @@
 streamlit==1.22.0
-requests
-opencv-python
-numpy
-tensorflow
-keras
-imutils
-playsound
 flask
