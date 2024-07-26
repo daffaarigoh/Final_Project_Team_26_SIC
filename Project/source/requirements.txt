@@ -1,6 +1,9 @@
 streamlit==1.22.0
-flask
-pip
+requests
 opencv-python
-tensorflow
 numpy
+tensorflow
+keras
+imutils
+playsound
+flask
