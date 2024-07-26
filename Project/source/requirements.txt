@@ -1,5 +1,5 @@
-python==3.7.9
 streamlit==1.22.0
 flask
 pip
 opencv-python
+tensorflow
