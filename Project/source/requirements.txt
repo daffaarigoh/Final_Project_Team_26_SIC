@@ -3,3 +3,4 @@ flask
 pip
 opencv-python
 tensorflow
+numpy
